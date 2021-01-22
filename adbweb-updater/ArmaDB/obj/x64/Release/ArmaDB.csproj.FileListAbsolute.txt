@@ -1,0 +1,9 @@
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\bin\x64\ArmaDB.dll
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\bin\x64\ArmaDB.pdb
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\bin\x64\sphubHandler.dll
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\bin\x64\sphubHandler.pdb
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\obj\x64\Release\ArmaDB.csproj.CoreCompileInputs.cache
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\obj\x64\Release\ArmaDB.csproj.CopyComplete
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\obj\x64\Release\ArmaDB.dll
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\obj\x64\Release\ArmaDB.pdb
+C:\Users\Brett\OneDrive\ArmaDB\ArmaDB\obj\x64\Release\ArmaDB.csprojAssemblyReference.cache

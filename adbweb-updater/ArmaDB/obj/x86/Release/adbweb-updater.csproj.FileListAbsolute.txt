@@ -1,0 +1,4 @@
+C:\Users\Brett\OneDrive\MalibuApps\adbweb-updater\ArmaDB\bin\adbweb-updater.dll
+C:\Users\Brett\OneDrive\MalibuApps\adbweb-updater\ArmaDB\obj\x86\Release\adbweb-updater.csproj.CoreCompileInputs.cache
+C:\Users\Brett\OneDrive\MalibuApps\adbweb-updater\ArmaDB\obj\x86\Release\adbweb-updater.dll
+C:\Users\Brett\OneDrive\MalibuApps\adbweb-updater\ArmaDB\obj\x86\Release\adbweb-updater.csprojAssemblyReference.cache
